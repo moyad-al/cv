@@ -4,10 +4,9 @@ body {
 
 hr {
     border-style: none;
-    border-bottom: 10px dotted cornsilk;
-    opacity: 50%;
-    height: 0px;
-    width: 10%;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 5%;
 }
 
 h1 {
